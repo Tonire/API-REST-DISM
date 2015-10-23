@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "API Practica1", "API Practica1\API Practica1.njsproj", "{7A8FD1C8-FED9-40D1-B0AE-1277A4CA900C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A8FD1C8-FED9-40D1-B0AE-1277A4CA900C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8FD1C8-FED9-40D1-B0AE-1277A4CA900C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8FD1C8-FED9-40D1-B0AE-1277A4CA900C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8FD1C8-FED9-40D1-B0AE-1277A4CA900C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
